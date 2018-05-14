@@ -1,0 +1,88 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef1"
+            },
+            "LastName": "Barr"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef2"
+            },
+            "LastName": "foo"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef3"
+            },
+            "LastName": "Powell"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef4"
+            },
+            "LastName": "Bhatt"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef5"
+            },
+            "LastName": "Gray"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef6"
+            },
+            "LastName": "Manzanares"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef7"
+            },
+            "LastName": "King"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef8"
+            },
+            "LastName": "Watanabe"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef9"
+            },
+            "LastName": "Figueroa"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef10"
+            },
+            "LastName": "Bates"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef11"
+            },
+            "LastName": "Taylor"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef12"
+            },
+            "LastName": "Brooks"
+        }
+    ]
+}

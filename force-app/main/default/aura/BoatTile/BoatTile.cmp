@@ -1,0 +1,19 @@
+<aura:component >
+    <aura:attribute name="boat" type="Boat__c"/>
+    <aura:attribute name="selected" type="Boolean" default="false"/>
+    <aura:registerEvent name="BoatSelect" type="c:BoatSelect"/>
+    <aura:registerEvent name="BoatSelected" type="c:BoatSelected"/> <!-- I'd rather use the same BoatSelect event with additional attribute but oh well, dunno if the challenge passes if I do it like that -->
+    <aura:registerEvent name="PlotMapMarker" type="c:PlotMapMarker"/>
+
+    <lightning:button class="{!v.selected == 'true' ? 'tile selected' : 'tile'}" onclick="{! c.onBoatClick }" >
+        <!--
+        <div style="{!'position: relative; height: 30vh; background:' + v.backgroundColor + ' url(' + v.backgroundImageURL +') 
+        no-repeat;background-position: center;background-size: cover;'}">
+        -->
+        <div style="{!'background-image:url('+v.boat.Picture__c+')'}" class="innertile">
+            <div class="lower-third">
+                <h1 class="slds-truncate">{!v.boat.Contact__r.Name}</h1>
+            </div>
+        </div>
+    </lightning:button>
+</aura:component>

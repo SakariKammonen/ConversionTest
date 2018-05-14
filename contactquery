@@ -1,0 +1,1 @@
+SELECT Id, LastName, (SELECT Description__c, Geolocation__Latitude__s, Geolocation__Longitude__s, Length__c, Picture__c, Price__c, Year_Built__c FROM Boats__r) FROM Contact
