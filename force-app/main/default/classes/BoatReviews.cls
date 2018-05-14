@@ -1,3 +1,4 @@
+// test comment
 public class BoatReviews {
     @AuraEnabled public static BoatReview__c[] getAll(Id boatId) {
         return [SELECT Id, Name, Comment__c, Rating__c, LastModifiedDate, 
