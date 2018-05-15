@@ -155,7 +155,7 @@
             "sourcePath": "/Users/kamenski/Projects/TempRemove/ConversionTest/force-app/main/default/aura/BoatDetail",
             "isDirectory": true,
             "size": 224,
-            "modifiedTime": 1526290876772,
+            "modifiedTime": 1526375299073,
             "changeTime": 1526290876772,
             "contentHash": "23ccd3bd9a16d61a11063878f24905d7df83a00c",
             "isMetadataFile": false,
@@ -167,16 +167,15 @@
     [
         "/Users/kamenski/Projects/TempRemove/ConversionTest/force-app/main/default/aura/BoatDetail/BoatDetail.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/kamenski/Projects/TempRemove/ConversionTest/force-app/main/default/aura/BoatDetail/BoatDetail.cmp",
             "isDirectory": false,
-            "size": 3229,
-            "modifiedTime": 1526290876772,
-            "changeTime": 1526290876772,
-            "contentHash": "49fa3421a252fd9856068915985e61338b9c3097",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 3344,
+            "modifiedTime": 1526375299073,
+            "changeTime": 1526375299073,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "51a4b118e868f601bd58f80438524780e2c62719"
         }
     ],
     [
@@ -212,16 +211,15 @@
     [
         "/Users/kamenski/Projects/TempRemove/ConversionTest/force-app/main/default/aura/BoatDetail/BoatDetailController.js",
         {
+            "state": "u",
             "sourcePath": "/Users/kamenski/Projects/TempRemove/ConversionTest/force-app/main/default/aura/BoatDetail/BoatDetailController.js",
             "isDirectory": false,
-            "size": 601,
-            "modifiedTime": 1526290876772,
-            "changeTime": 1526290876772,
-            "contentHash": "f7d76e78f688c4960e7ca689852fdcc9c3620164",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 611,
+            "modifiedTime": 1526375299073,
+            "changeTime": 1526375299073,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "f10a276b7172db4cf7d31fff5fd1318d5e0ff790"
         }
     ],
     [
@@ -470,7 +468,7 @@
             "sourcePath": "/Users/kamenski/Projects/TempRemove/ConversionTest/force-app/main/default/aura/BoatSearch",
             "isDirectory": true,
             "size": 224,
-            "modifiedTime": 1526290876777,
+            "modifiedTime": 1526375299073,
             "changeTime": 1526290876777,
             "contentHash": "bdb49d0f25b5eb90fdd7e2d9ff63a189857f9d35",
             "isMetadataFile": false,
@@ -482,16 +480,15 @@
     [
         "/Users/kamenski/Projects/TempRemove/ConversionTest/force-app/main/default/aura/BoatSearch/BoatSearch.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/kamenski/Projects/TempRemove/ConversionTest/force-app/main/default/aura/BoatSearch/BoatSearch.cmp",
             "isDirectory": false,
-            "size": 412,
-            "modifiedTime": 1526290876776,
-            "changeTime": 1526290876776,
-            "contentHash": "c35fd80f9872a4639beca6aa5daa4b189e6a8606",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 425,
+            "modifiedTime": 1526375299073,
+            "changeTime": 1526375299073,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "b8a66732dec4f822be0ef1562b3cde978e2238d7"
         }
     ],
     [
@@ -1265,7 +1262,7 @@
             "sourcePath": "/Users/kamenski/Projects/TempRemove/ConversionTest/force-app/main/default/classes",
             "isDirectory": true,
             "size": 320,
-            "modifiedTime": 1526290876790,
+            "modifiedTime": 1526375299074,
             "changeTime": 1526290876790,
             "contentHash": "9ba3b6b4ce1b2d0d3238363bfa10eca95bc5b9ae",
             "isMetadataFile": false,
@@ -1281,11 +1278,11 @@
             "sourcePath": "/Users/kamenski/Projects/TempRemove/ConversionTest/force-app/main/default/classes/BoatReviews.cls",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 321,
-            "modifiedTime": 1526292047325,
-            "changeTime": 1526292047325,
+            "size": 385,
+            "modifiedTime": 1526375511406,
+            "changeTime": 1526375511406,
             "isWorkspace": false,
-            "contentHash": "53574e0d41a76b258dea2fc7992f22d36d2f5836"
+            "contentHash": "75fbc7e03b62b430d22d4231d0ab08f2a29455bb"
         }
     ],
     [
@@ -2836,15 +2833,15 @@
     [
         "/Users/kamenski/Projects/TempRemove/ConversionTest",
         {
-            "state": "u",
             "sourcePath": "/Users/kamenski/Projects/TempRemove/ConversionTest",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 384,
             "modifiedTime": 1526292035899,
             "changeTime": 1526292035899,
-            "isWorkspace": true,
-            "contentHash": "1d36dcffb03833b4239d9ac9f774ec100e757ec3"
+            "contentHash": "1d36dcffb03833b4239d9ac9f774ec100e757ec3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
         }
     ]
 ]
