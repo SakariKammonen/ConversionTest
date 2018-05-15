@@ -4,7 +4,7 @@
         if(showBoatDetailsEvent) {
             component.set("v.fullDetailsAvailable", "true");
         } else {
-            console.log('init, not showing full details button because event not available in this platform');
+            console.log('Timo test init, not showing full details button because event not available in this platform');
         }
 	},
 	

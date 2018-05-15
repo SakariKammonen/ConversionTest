@@ -24,19 +24,20 @@
             <lightning:layoutItem flexibility="auto, shrink">
                 <div class="slds-p-horizontal--small">
                     <div class="boatproperty">
-                        <span class="label">Boat Name:</span>
+                        <!-- Timon lisäämä kommentti. Välilyönnit kenttäotsikoiden perään lisätty -->
+                        <span class="label">Boat Name: </span>
                         <span>{!v.boat.Name}</span>
                     </div>
                     <div class="boatproperty">
-                        <span class="label">Type:</span>
+                        <span class="label">Type: </span>
                         <span>{!v.boat.BoatType__r.Name}</span>
                     </div>
                     <div class="boatproperty">
-                        <span class="label">Length:</span>
+                        <span class="label">Length: </span>
                         <span>{!v.boat.Length__c} ft</span>
                     </div>
                     <div class="boatproperty">
-                        <span class="label">Est. Price:</span>
+                        <span class="label">Est. Price: </span>
                     <!-- semi-fucking ridiculous that this is not accepted in the challenge, has to be lightning:formattedNumber ...
                     <span><ui:outputCurrency value="{!v.boat.Price__c}" currencyCode="USD" currencySymbol="$"/></span>                        
                     -->
