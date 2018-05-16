@@ -3,12 +3,14 @@ public class ConflictTestBoatReviews {
     @AuraEnabled public static BoatReview__c[] getAll(Id boatId) {
         // Tässä nyt dummy-koodia testejä varten.
         // Muokataan molemmat näitä seuraavia rivejä ihan vapaasti ja katsotaan mitä tapahtuu gitissä
-        Integer iiix = 255;
-        String catfish = 'ruijanpallas';
-        List<String> textlist = new List<String>();
-        textlist.add('first');
-        textlist.add('second');
-        textlist.add('third');
+        String koira = 'karvainen conflict solved';
+        // Einen kleinen comment
+        Integer iii = 5;
+        String kissakala = 'siperiantiikeri';
+        List<String> testilista = new List<String>();
+        testilista.add('eka');
+        testilista.add('toinen');
+        testilista.add('kolmas');
         // Lopetetaan muokkaukset tähän
         
         // Another comment

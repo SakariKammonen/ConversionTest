@@ -1,8 +1,7 @@
 <aura:component controller="HelloWorldController" implements="flexipage:availableForRecordHome">
     <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
 <!-- Muokataan tätä componenttia ihan miten vain kunhan vain muokkaa noita olemassa olevia rivejä -->
-    <aura:attribute name="greeting" type="String" default="Timo muokkasiWorld" />Hello, {!v.greeting}! Some new text
-    <lightning:input name="Greeting" label="Modified Greeting!" value="{!v.greeting}"/>
-        
+    <aura:attribute name="greeting" type="String" default="Yhdistetty muokkaus World" />Hello, {!v.greeting}! Some new text
+    <lightning:input name="Greeting" label="Modified Conflict Solved Greeting!" value="{!v.greeting}"/>
     
 </aura:component>
