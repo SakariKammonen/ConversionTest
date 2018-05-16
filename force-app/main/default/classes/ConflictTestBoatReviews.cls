@@ -3,6 +3,8 @@ public class ConflictTestBoatReviews {
     @AuraEnabled public static BoatReview__c[] getAll(Id boatId) {
         // Tässä nyt dummy-koodia testejä varten.
         // Muokataan molemmat näitä seuraavia rivejä ihan vapaasti ja katsotaan mitä tapahtuu gitissä
+        String koira = 'karvainen';
+        // Einen kleinen comment
         Integer iii = 5;
         String kissakala = 'siperiantiikeri';
         List<String> testilista = new List<String>();
