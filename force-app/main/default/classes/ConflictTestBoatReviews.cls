@@ -3,16 +3,17 @@ public class ConflictTestBoatReviews {
     @AuraEnabled public static BoatReview__c[] getAll(Id boatId) {
         // Tässä nyt dummy-koodia testejä varten.
         // Muokataan molemmat näitä seuraavia rivejä ihan vapaasti ja katsotaan mitä tapahtuu gitissä
-        Integer iii = 5;
-        String kissakala = 'siperiantiikeri';
-        List<String> testilista = new List<String>();
-        testilista.add('eka');
-        testilista.add('toinen');
-        testilista.add('kolmas');
+        Integer iiix = 255;
+        String catfish = 'ruijanpallas';
+        List<String> textlist = new List<String>();
+        textlist.add('first');
+        textlist.add('second');
+        textlist.add('third');
         // Lopetetaan muokkaukset tähän
         
         // Another comment
-        return [SELECT Id, Name, Comment__c, Rating__c, LastModifiedDate, 
-                CreatedDate, CreatedBy.Name, CreatedBy.SmallPhotoUrl, CreatedBy.CompanyName FROM BoatReview__c WHERE Boat__c = :boatId];
+        // Hakulauseen muutettu vain järjestystä
+        return [SELECT Id, Name, LastModifiedDate, Comment__c, Rating__c, 
+                CreatedDate, CreatedBy.CompanyName, CreatedBy.Name, CreatedBy.SmallPhotoUrl FROM BoatReview__c WHERE Boat__c = :boatId];
     }
 }

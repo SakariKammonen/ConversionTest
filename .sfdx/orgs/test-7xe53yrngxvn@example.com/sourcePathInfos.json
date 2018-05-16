@@ -1257,7 +1257,7 @@
             "sourcePath": "/Users/timoaarnio/Documents/Trailheads/SakkeDX/ConversionTest/force-app/main/default/classes",
             "isDirectory": true,
             "size": 448,
-            "modifiedTime": 1526454122125,
+            "modifiedTime": 1526459121894,
             "changeTime": 1526454122125,
             "contentHash": "5aa8c99ac42b90a08a192ba45c25c54aef6d13d8",
             "isMetadataFile": false,
@@ -1403,9 +1403,9 @@
             "sourcePath": "/Users/timoaarnio/Documents/Trailheads/SakkeDX/ConversionTest/force-app/main/default/flexipages/Boat_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
             "size": 3738,
-            "modifiedTime": 1526454122123,
-            "changeTime": 1526454122123,
-            "contentHash": "f6637f633a0ab7b8aaaf90ac3330eb697e3f5724",
+            "modifiedTime": 1526459197811,
+            "changeTime": 1526459197811,
+            "contentHash": "e6981f8e976fcff8aed7900cac0d65c6e0a59023",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -1428,14 +1428,14 @@
     [
         "/Users/timoaarnio/Documents/Trailheads/SakkeDX/ConversionTest/force-app/main/default/layouts",
         {
-            "state": "u",
             "sourcePath": "/Users/timoaarnio/Documents/Trailheads/SakkeDX/ConversionTest/force-app/main/default/layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 224,
             "modifiedTime": 1526456930113,
             "changeTime": 1526456930113,
-            "contentHash": "3a5fdeed161ad717305cb688453970280168025f"
+            "contentHash": "3a5fdeed161ad717305cb688453970280168025f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -2851,10 +2851,10 @@
         {
             "sourcePath": "/Users/timoaarnio/Documents/Trailheads/SakkeDX/ConversionTest/force-app/main/default/aura/ConflictTestComponent/ConflictTestComponentController.js",
             "isDirectory": false,
-            "size": 420,
-            "modifiedTime": 1526454122117,
-            "changeTime": 1526454122117,
-            "contentHash": "8156570806d5df3929d0c0c3cfc512724bf9aa5e",
+            "size": 440,
+            "modifiedTime": 1526459121873,
+            "changeTime": 1526459121873,
+            "contentHash": "127a4421b079a97f5189b4d6439153bf3bb87504",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -2864,10 +2864,10 @@
         {
             "sourcePath": "/Users/timoaarnio/Documents/Trailheads/SakkeDX/ConversionTest/force-app/main/default/aura/ConflictTestComponent/ConflictTestComponent.cmp",
             "isDirectory": false,
-            "size": 471,
-            "modifiedTime": 1526454122117,
-            "changeTime": 1526454122117,
-            "contentHash": "2e9942aa5d5056aadfb2f3cc636bf1998d00ddbd",
+            "size": 508,
+            "modifiedTime": 1526459121874,
+            "changeTime": 1526459121874,
+            "contentHash": "80b112aea0ad37523dee074d953280b75adcdd79",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -2890,10 +2890,10 @@
         {
             "sourcePath": "/Users/timoaarnio/Documents/Trailheads/SakkeDX/ConversionTest/force-app/main/default/classes/HelloWorldController.cls",
             "isDirectory": false,
-            "size": 335,
-            "modifiedTime": 1526454122124,
-            "changeTime": 1526454122124,
-            "contentHash": "235c9f8d719d8dff8710d927e8c6e974bc9ea90d",
+            "size": 605,
+            "modifiedTime": 1526459121894,
+            "changeTime": 1526459121894,
+            "contentHash": "8d96cc5dfcf58742c9c5b674d63bda65202f955a",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -2914,14 +2914,14 @@
     [
         "/Users/timoaarnio/Documents/Trailheads/SakkeDX/ConversionTest/force-app/main/default/classes/ConflictTestBoatReviews.cls",
         {
+            "state": "u",
             "sourcePath": "/Users/timoaarnio/Documents/Trailheads/SakkeDX/ConversionTest/force-app/main/default/classes/ConflictTestBoatReviews.cls",
             "isDirectory": false,
-            "size": 803,
-            "modifiedTime": 1526454122125,
-            "changeTime": 1526454122125,
-            "contentHash": "31ecf85e1d4107830cd3c1eeb6abfaba7a4706c6",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 845,
+            "modifiedTime": 1526460881353,
+            "changeTime": 1526460881353,
+            "contentHash": "7add026922214a752bf6db0543f81bbc128796a5"
         }
     ],
     [
@@ -2930,7 +2930,7 @@
             "sourcePath": "/Users/timoaarnio/Documents/Trailheads/SakkeDX/ConversionTest/force-app/main/default/aura/ConflictTestComponent",
             "isDirectory": true,
             "size": 160,
-            "modifiedTime": 1526454122117,
+            "modifiedTime": 1526459121874,
             "changeTime": 1526454122117,
             "contentHash": "aa493284aaa871008ef56ee5ea091e9d04723292",
             "isMetadataFile": false,
@@ -2940,14 +2940,14 @@
     [
         "/Users/timoaarnio/Documents/Trailheads/SakkeDX/ConversionTest/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/timoaarnio/Documents/Trailheads/SakkeDX/ConversionTest/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
+            "size": 15625,
+            "modifiedTime": 1526459121892,
+            "changeTime": 1526459121892,
+            "contentHash": "bd3282e9132d922b4d3044a376ed2ecbfe3f261e",
             "isMetadataFile": true,
-            "size": 9502,
-            "modifiedTime": 1526456930113,
-            "changeTime": 1526456930113,
-            "contentHash": "eb134b02e1fe299d7d8b981468c002ff70e2f7da"
+            "state": "u"
         }
     ]
 ]

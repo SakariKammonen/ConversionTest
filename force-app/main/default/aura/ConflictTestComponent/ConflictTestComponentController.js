@@ -1,11 +1,11 @@
 ({
     doInit : function(component, event, helper) {
         // Ja tähän funktioon tehdään jotain ihan random-muutoksia olemassa oleviin riveihin
-        var action = component.get("c.getCurrentUser");
-        action.setCallback(this, function(response) {
-            var user = response.getReturnValue();
-            component.set("v.greeting", user.FirstName);
+        var actzione = component.get("c.getCurrentUser");
+        actzione.setCallback(this, function(response) {
+            var modattuUser = response.getReturnValue();
+            component.set("v.greeting", modattuUser.FirstName);
         })
-        $A.enqueueAction(action);
+        $A.enqueueAction(actzione);
     }
 })
