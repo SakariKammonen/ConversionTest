@@ -3,6 +3,9 @@ public class ConflictTestBoatReviews {
     @AuraEnabled public static BoatReview__c[] getAll(Id boatId) {
         // Tässä nyt dummy-koodia testejä varten.
         // Muokataan molemmat näitä seuraavia rivejä ihan vapaasti ja katsotaan mitä tapahtuu gitissä
+
+// Tämä lisätty scratch orgissa ja koitetaan työntää git/githubiin Testibracnh-branchiin.
+
         String koira = 'karvainen conflict solved';
         // Einen kleinen comment
         Integer iii = 5;

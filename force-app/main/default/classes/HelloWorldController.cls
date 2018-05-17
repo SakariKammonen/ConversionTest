@@ -11,6 +11,7 @@ public with sharing class HelloWorldController {
     public static void dummyMetodi() {
         string dummyStr = 'Tässä ei tapahdu yhtään mitään';
         integer intti = 535;
+// TOINEN "UUSI OMINAISUUS" KOODATTU TESTIBRANCHIIN
     }
     
 }
